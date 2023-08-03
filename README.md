@@ -15,3 +15,7 @@ windows 環境下開啟 flowable/bin
 [java官方載點](https://www.java.com/en/download/)
 
 點兩下start-work.bat
+
+開啟web Service成功後，會寄license到你登入的信箱中
+
+下載flowable.license
